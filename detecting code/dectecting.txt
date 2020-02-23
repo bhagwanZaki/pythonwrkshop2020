@@ -1,0 +1,3 @@
+the program here will detect the face,cars,etc.. this all is done by the help of .xml file 
+video and picture as different .xml file
+first find the xml file
